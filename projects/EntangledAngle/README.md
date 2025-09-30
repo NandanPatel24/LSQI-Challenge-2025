@@ -1,3 +1,24 @@
+---
+
+number: 1 # leave as-is, maintainers will adjust
+title: Quantum Circuit Simulation of Nonlinear Population Pharmacokinetics Using Variational Algorithms
+topic: Quantum Circuit Simulation of Compartmental Drug Dynamics by Leveraging Variational Algorithms for Nonlinear Mixed Effects Population Pharmacokinetics
+
+Team Leads:
+  - Dr. Reena Monica (Vellore Institute of Technology, Chennai) @reenamonica-design
+  - Isshaan Singh (Vellore Institute of Technology, Chennai) @IsshaanSingh2701
+  - Nandan Patel (Vellore Institute of Technology, Chennai) @NandanPatel24
+
+Contributors:
+
+  - Dr. Reena Monica (Vellore Institute of Technology, Chennai) @reenamonica-design
+  - Isshaan Singh (Vellore Institute of Technology, Chennai) @IsshaanSingh2701
+  - Nandan Patel (Vellore Institute of Technology, Chennai) @NandanPatel24
+
+# github: "NandanPatel24/LSQI-Challenge-2025"
+
+---
+
 Abstract
 
 Population pharmacokinetic/pharmacodynamic modeling traditionally employs
@@ -22,6 +43,9 @@ subjects with 100% stability, establishing quantum computing as viable for pop-
 ulation pharmacometrics despite current computational overhead requiring future
 optimization.
 
+The link to the code file is: [EntangledAngle_Code_Submission](https://github.com/NandanPatel24/LSQI-Challenge-2025/blob/main/projects/EntangledAngle/Quantum_Innovation_Challenge_EntangledAngle_Code_submission.ipynb)
+
+The link to the report file is: [EntangledAngle_Report_File](https://github.com/NandanPatel24/LSQI-Challenge-2025/blob/main/projects/EntangledAngle/Quantum_Innovation_Challenge_EntangledAngle_Report_submission.pdf.pdf)
 
 References
 
